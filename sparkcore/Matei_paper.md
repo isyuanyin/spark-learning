@@ -1,0 +1,16 @@
+Spark创始人Matei Zaharia
+
+主页：https://cs.stanford.edu/~matei/
+
+- [Spark: Cluster Computing with Working Sets](https://cs.stanford.edu/~matei/papers/2010/hotcloud_spark.pdf). M. Zaharia, M. Chowdhury, M.J. Franklin, S. Shenker and I. Stoica. *HotCloud 2010*, June 2010.
+- [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://cs.stanford.edu/~matei/papers/2012/nsdi_spark.pdf). M. Zaharia, M. Chowdhury, T. Das, A. Dave, J. Ma, M. McCauley, M.J. Franklin, S. Shenker, I. Stoica. *NSDI 2012*
+- [Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters](https://cs.stanford.edu/~matei/papers/2012/hotcloud_spark_streaming.pdf). M. Zaharia, T. Das, H. Li, S. Shenker and I. Stoica. *HotCloud 2012*, June 2012.
+- [Fast and Interactive Analytics over Hadoop Data with Spark](https://www.usenix.org/publications/login/august-2012-volume-37-number-4/fast-and-interactive-analytics-over-hadoop-data). M. Zaharia, M. Chowdhury, T. Das, A. Dave, J. Ma, M. McCauley, M.J. Franklin, S. Shenker, I. Stoica. *USENIX ;login:*, August 2012.
+- [An Architecture for Fast and General Data Processing on Large Clusters](http://www.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-12.pdf). M. Zaharia. **(PhD Disseration)**.
+- [Spark SQL: Relational Data Processing in Spark](https://cs.stanford.edu/~matei/papers/2015/sigmod_spark_sql.pdf). M. Armbrust, R. Xin, C. Lian, Y. Huai, D. Liu, J. Bradley, X. Meng, T. Kaftan, M. Franklin, A. Ghodsi and M. Zaharia. *SIGMOD 2015*, June 2015.
+- [Scaling Spark in the Real World: Performance and Usability](https://cs.stanford.edu/~matei/papers/2015/vldb_spark.pdf). M. Armbrust, T. Das, A. Davidson, A. Ghodsi, A. Or, J. Rosen, I. Stoica, P. Wendell, R. Xin and M. Zaharia. *VLDB 2015*, August 2015.
+- [MLlib: Machine Learning in Apache Spark](https://cs.stanford.edu/~matei/papers/2016/jmlr_mllib.pdf). X. Meng, J. Bradley, B. Yuvaz, E. Sparks, S. Venkataraman, D. Liu, J. Freeman, D. Tsai, M. Amde, S. Owen, D. Xin, R. Xin, M. Franklin, R. Zadeh, M. Zaharia, and A. Talwalkar. *JMLR*, 17(34):1–7, 2016.
+- [SparkR: Scaling R Programs with Spark](https://cs.stanford.edu/~matei/papers/2016/sigmod_sparkr.pdf). S. Venkataraman, Z. Yang, D. Liu, E. Liang, X. Meng, R. Xin, A. Ghodsi, M. Franklin, I. Stoica and M. Zaharia. *SIGMOD 2016*.
+- [GraphFrames: An Integrated API for Mixing Graph and Relational Queries](https://cs.stanford.edu/~matei/papers/2016/grades_graphframes.pdf). A. Dave, A. Jindal, L.E. Li, R. Xin, J. Gonzalez and M. Zaharia. *GRADES 2016*.
+- [Apache Spark: A Unified Engine for Big Data Processing](http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext). M. Zaharia, R. Xin, P. Wendell, T. Das, M. Armbrust, A. Dave, X. Meng, J. Rosen, S. Venkataraman, M. Franklin, A. Ghodsi, J. Gonzalez, S. Shenker, I. Stoica. *Communications of the ACM*, 59(11):56-65, November 2016.
+- [Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark](https://cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf). M. Armbrust, T. Das, J. Torres, B. Yavuz, S. Zhu, R. Xin, A. Ghodsi, I. Stoica and M. Zaharia. *SIGMOD 2018*.
